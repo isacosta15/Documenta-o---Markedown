@@ -51,6 +51,7 @@ Por ser texto plano (UTF-8), o Markdown é compatível com qualquer:
 #### Nível 4
 ##### Nível 5  
 ###### Nível 6
+```
 
 ### ✍️ 3.2 Modificadores Tipográficos
 *itálico*  
