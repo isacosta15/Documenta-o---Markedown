@@ -200,7 +200,8 @@ PDF	Publicação técnica	Pandoc + LaTeX
 DOCX	Documentos corporativos	Pandoc
 HTML	Web publishing	markdown-it
 EPUB	E-books	Calibre
-🔍 10. ANÁLISE CRÍTICA E PERSPECTIVAS
+
+## 🔍 10. ANÁLISE CRÍTICA E PERSPECTIVAS
 🧩 Limitações
 
 Ausência de semântica complexa
@@ -217,14 +218,14 @@ Integração com Web Components
 
 Uso como formato intermediário (IR)
 
-🏁 11. CONCLUSÃO
+## 🏁 11. CONCLUSÃO
 
 O Markdown representa o equilíbrio perfeito entre simplicidade e poder expressivo.
 Sua longevidade e ampla adoção o tornam uma ferramenta essencial para desenvolvedores, pesquisadores e escritores técnicos.
 
 💬 “Markdown é mais do que texto formatado — é uma linguagem de pensamento estruturado.”
 
-📚 12. REFERÊNCIAS
+## 📚 12. REFERÊNCIAS
 
 GRUBER, J. Markdown: Syntax Documentation. Daring Fireball
  (2004).
@@ -238,5 +239,3 @@ MACFARLANE, J. Pandoc User's Guide (2024).
 W3C. Web Content Accessibility Guidelines (WCAG) 2.1 (2018).
 
 ISO/IEC JTC 1/SC 34. Document Description and Processing Languages (2020).
-##### Nível 5  
-###### Nível 6
